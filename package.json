@@ -1,0 +1,22 @@
+{
+  "name": "react-env",
+  "version": "1.0.0",
+  "description": "react development envrionment",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/one-chan/react-env.git"
+  },
+  "keywords": [
+    "react"
+  ],
+  "author": "one-chan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/one-chan/react-env/issues"
+  },
+  "homepage": "https://github.com/one-chan/react-env#readme"
+}
